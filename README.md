@@ -1,6 +1,7 @@
 # SQL_PROJECT
 
 ⇨ Existem outras entidades além dessas três?
+
 As entidades criadas alem das três apresentadas são equipe e secretaria
 
 ⇨ Quais são os principais campos e tipos
